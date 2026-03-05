@@ -1,0 +1,890 @@
+[04/02/2026 18:00:00] Paciente_0: Olá, preciso marcar uma consulta.
+[04/02/2026 23:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[04/02/2026 23:05:00] Paciente_0: Sou o Paciente_0, para sexta-feira, pela Unimed.
+[04/02/2026 23:15:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[04/02/2026 23:32:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[05/02/2026 00:18:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[08/02/2026 00:18:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[24/02/2026 16:00:00] Paciente_1: Olá, preciso marcar uma consulta.
+[24/02/2026 20:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[24/02/2026 20:10:00] Paciente_1: Sou o Paciente_1, para sexta-feira, pela Unimed.
+[24/02/2026 20:22:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[24/02/2026 20:31:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[24/02/2026 20:41:00] Paciente_1: Sim, tudo bem.
+[24/02/2026 20:46:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[24/02/2026 22:13:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[27/02/2026 22:13:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[26/02/2026 17:00:00] Paciente_2: Olá, preciso marcar uma consulta.
+[26/02/2026 20:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[26/02/2026 20:10:00] Paciente_2: Sou o Paciente_2, para sexta-feira, pela Unimed.
+[26/02/2026 20:21:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[26/02/2026 20:41:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[26/02/2026 21:28:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[03/03/2026 21:28:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[28/12/2025 16:00:00] Paciente_3: Olá, preciso marcar uma consulta.
+[29/12/2025 00:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[29/12/2025 00:11:00] Paciente_3: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[08/02/2026 13:00:00] Paciente_4: Olá, preciso marcar uma consulta.
+[08/02/2026 13:05:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[08/02/2026 13:13:00] Paciente_4: 🎤 [Mensagem de voz: 0:15]
+[08/02/2026 13:14:00] Paciente_4: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[08/02/2026 13:45:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[08/02/2026 13:51:00] Paciente_4: Meu número é 123456.
+[08/02/2026 14:01:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[08/02/2026 14:21:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[08/02/2026 15:32:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[11/02/2026 15:32:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[09/01/2026 15:00:00] Paciente_5: Olá, preciso marcar uma consulta.
+[09/01/2026 18:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[09/01/2026 18:07:00] Paciente_5: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[16/02/2026 09:00:00] Paciente_6: Olá, preciso marcar uma consulta.
+[16/02/2026 09:06:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[16/02/2026 09:13:00] Paciente_6: Sou o Paciente_6, para sexta-feira, pela Unimed.
+[16/02/2026 09:29:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[16/02/2026 09:48:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[16/02/2026 11:16:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[19/02/2026 11:16:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[15/02/2026 17:00:00] Paciente_7: Olá, preciso marcar uma consulta.
+[15/02/2026 17:13:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[15/02/2026 17:19:00] Paciente_7: 🎤 [Mensagem de voz: 0:10]
+[15/02/2026 17:20:00] Paciente_7: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[15/02/2026 18:05:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[15/02/2026 18:15:00] Paciente_7: Meu número é 123456.
+[15/02/2026 18:35:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[15/02/2026 18:54:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[15/02/2026 19:35:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[22/02/2026 19:35:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[28/12/2025 15:00:00] Paciente_8: Olá, preciso marcar uma consulta.
+[28/12/2025 15:12:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[28/12/2025 15:17:00] Paciente_8: 🎤 [Mensagem de voz: 0:27]
+[28/12/2025 15:18:00] Paciente_8: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[28/12/2025 16:15:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[28/12/2025 16:21:00] Paciente_8: Meu número é 123456.
+[28/12/2025 16:51:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[28/12/2025 17:03:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[28/12/2025 17:37:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[02/01/2026 17:37:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[26/02/2026 09:00:00] Paciente_9: Olá, preciso marcar uma consulta.
+[26/02/2026 14:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[26/02/2026 14:27:00] Paciente_9: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[08/12/2025 18:00:00] Paciente_10: Olá, preciso marcar uma consulta.
+[09/12/2025 02:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[09/12/2025 02:22:00] Paciente_10: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[20/02/2026 14:00:00] Paciente_11: Olá, preciso marcar uma consulta.
+[20/02/2026 14:15:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[20/02/2026 14:23:00] Paciente_11: Sou o Paciente_11, para sexta-feira, pela Unimed.
+[20/02/2026 14:46:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[20/02/2026 15:01:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[20/02/2026 16:26:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[27/02/2026 16:26:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[17/01/2026 11:00:00] Paciente_12: Olá, preciso marcar uma consulta.
+[17/01/2026 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[17/01/2026 16:04:00] Paciente_12: 🎤 [Mensagem de voz: 0:33]
+[17/01/2026 16:05:00] Paciente_12: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[17/01/2026 16:47:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[17/01/2026 16:54:00] Paciente_12: Meu número é 123456.
+[17/01/2026 17:04:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[17/01/2026 17:15:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[17/01/2026 18:36:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[22/01/2026 18:36:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[21/01/2026 10:00:00] Paciente_13: Olá, preciso marcar uma consulta.
+[21/01/2026 12:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[21/01/2026 12:09:00] Paciente_13: Sou o Paciente_13, para sexta-feira, pela Unimed.
+[21/01/2026 12:29:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[21/01/2026 12:50:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[21/01/2026 14:18:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[28/01/2026 14:18:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[17/12/2025 15:00:00] Paciente_14: Olá, preciso marcar uma consulta.
+[17/12/2025 17:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[17/12/2025 17:10:00] Paciente_14: Sou o Paciente_14, para sexta-feira, pela Unimed.
+[17/12/2025 17:38:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[17/12/2025 18:02:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[17/12/2025 18:35:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[24/12/2025 18:35:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[01/01/2026 10:00:00] Paciente_15: Olá, preciso marcar uma consulta.
+[01/01/2026 17:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[01/01/2026 17:30:00] Paciente_15: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[31/12/2025 09:00:00] Paciente_16: Olá, preciso marcar uma consulta.
+[31/12/2025 09:08:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[31/12/2025 09:10:00] Paciente_16: Sou o Paciente_16, para sexta-feira, pela Unimed.
+[31/12/2025 09:29:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[31/12/2025 09:39:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[31/12/2025 09:47:00] Paciente_16: Sim, tudo bem.
+[31/12/2025 09:54:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[31/12/2025 11:22:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[03/01/2026 11:22:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[07/01/2026 12:00:00] Paciente_17: Olá, preciso marcar uma consulta.
+[07/01/2026 18:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[07/01/2026 18:03:00] Paciente_17: 🎤 [Mensagem de voz: 0:17]
+[07/01/2026 18:04:00] Paciente_17: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[07/01/2026 18:59:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[07/01/2026 19:02:00] Paciente_17: Meu número é 123456.
+[07/01/2026 19:29:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[07/01/2026 19:44:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[07/01/2026 19:47:00] Paciente_17: Sim, tudo bem.
+[07/01/2026 19:57:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[07/01/2026 20:35:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[10/01/2026 20:35:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[12/02/2026 15:00:00] Paciente_18: Olá, preciso marcar uma consulta.
+[12/02/2026 15:06:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[12/02/2026 15:07:00] Paciente_18: Sou o Paciente_18, para sexta-feira, pela Unimed.
+[12/02/2026 15:23:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[12/02/2026 15:42:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[12/02/2026 16:40:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[16/02/2026 16:40:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[07/01/2026 16:00:00] Paciente_19: Olá, preciso marcar uma consulta.
+[07/01/2026 18:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[07/01/2026 18:06:00] Paciente_19: 🎤 [Mensagem de voz: 0:25]
+[07/01/2026 18:07:00] Paciente_19: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[07/01/2026 18:51:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[07/01/2026 19:01:00] Paciente_19: Meu número é 123456.
+[07/01/2026 19:18:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[07/01/2026 19:31:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[07/01/2026 19:40:00] Paciente_19: Sim, tudo bem.
+[07/01/2026 19:48:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[07/01/2026 20:30:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[14/01/2026 20:30:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[20/12/2025 16:00:00] Paciente_20: Olá, preciso marcar uma consulta.
+[20/12/2025 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[20/12/2025 19:02:00] Paciente_20: 🎤 [Mensagem de voz: 0:40]
+[20/12/2025 19:03:00] Paciente_20: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[20/12/2025 20:01:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[20/12/2025 20:06:00] Paciente_20: Meu número é 123456.
+[20/12/2025 20:22:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[20/12/2025 20:29:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[20/12/2025 20:37:00] Paciente_20: Sim, tudo bem.
+[20/12/2025 20:45:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[20/12/2025 22:13:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[23/12/2025 22:13:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[27/12/2025 13:00:00] Paciente_21: Olá, preciso marcar uma consulta.
+[27/12/2025 13:08:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[27/12/2025 13:18:00] Paciente_21: 🎤 [Mensagem de voz: 0:10]
+[27/12/2025 13:19:00] Paciente_21: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[27/12/2025 14:01:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[27/12/2025 14:08:00] Paciente_21: Meu número é 123456.
+[27/12/2025 14:22:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[27/12/2025 14:31:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[27/12/2025 14:39:00] Paciente_21: Sim, tudo bem.
+[27/12/2025 14:46:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[27/12/2025 16:05:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[01/01/2026 16:05:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[25/01/2026 10:00:00] Paciente_22: Olá, preciso marcar uma consulta.
+[25/01/2026 14:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[25/01/2026 14:24:00] Paciente_22: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[14/02/2026 08:00:00] Paciente_23: Olá, preciso marcar uma consulta.
+[14/02/2026 14:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[14/02/2026 14:08:00] Paciente_23: Sou o Paciente_23, para sexta-feira, pela Unimed.
+[14/02/2026 14:28:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[14/02/2026 14:47:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[14/02/2026 15:35:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[18/02/2026 15:35:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[04/01/2026 12:00:00] Paciente_24: Olá, preciso marcar uma consulta.
+[04/01/2026 12:15:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[04/01/2026 12:20:00] Paciente_24: 🎤 [Mensagem de voz: 0:31]
+[04/01/2026 12:21:00] Paciente_24: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[04/01/2026 13:18:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[04/01/2026 13:21:00] Paciente_24: Meu número é 123456.
+[04/01/2026 13:48:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[04/01/2026 14:00:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[04/01/2026 14:02:00] Paciente_24: Sim, tudo bem.
+[04/01/2026 14:12:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[04/01/2026 14:46:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[11/01/2026 14:46:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[13/02/2026 12:00:00] Paciente_25: Olá, preciso marcar uma consulta.
+[13/02/2026 15:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[13/02/2026 15:10:00] Paciente_25: 🎤 [Mensagem de voz: 0:31]
+[13/02/2026 15:11:00] Paciente_25: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[13/02/2026 15:54:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[13/02/2026 15:57:00] Paciente_25: Meu número é 123456.
+[13/02/2026 16:21:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[13/02/2026 16:39:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[13/02/2026 17:52:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[19/02/2026 17:52:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[07/01/2026 13:00:00] Paciente_26: Olá, preciso marcar uma consulta.
+[07/01/2026 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[07/01/2026 19:07:00] Paciente_26: 🎤 [Mensagem de voz: 0:15]
+[07/01/2026 19:08:00] Paciente_26: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[07/01/2026 19:53:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[07/01/2026 19:59:00] Paciente_26: Meu número é 123456.
+[07/01/2026 20:13:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[07/01/2026 20:27:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[07/01/2026 21:52:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[13/01/2026 21:52:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[23/02/2026 09:00:00] Paciente_27: Olá, preciso marcar uma consulta.
+[23/02/2026 13:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[23/02/2026 13:03:00] Paciente_27: Sou o Paciente_27, para sexta-feira, pela Unimed.
+[23/02/2026 13:33:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[23/02/2026 13:51:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[23/02/2026 15:12:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[28/02/2026 15:12:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[05/02/2026 10:00:00] Paciente_28: Olá, preciso marcar uma consulta.
+[05/02/2026 15:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[05/02/2026 15:28:00] Paciente_28: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[05/01/2026 15:00:00] Paciente_29: Olá, preciso marcar uma consulta.
+[05/01/2026 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[05/01/2026 19:13:00] Paciente_29: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[07/12/2025 14:00:00] Paciente_30: Olá, preciso marcar uma consulta.
+[07/12/2025 18:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[07/12/2025 18:08:00] Paciente_30: 🎤 [Mensagem de voz: 0:31]
+[07/12/2025 18:09:00] Paciente_30: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[07/12/2025 19:05:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[07/12/2025 19:12:00] Paciente_30: Meu número é 123456.
+[07/12/2025 19:25:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[07/12/2025 19:39:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[07/12/2025 20:20:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[13/12/2025 20:20:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[03/02/2026 11:00:00] Paciente_31: Olá, preciso marcar uma consulta.
+[03/02/2026 11:11:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[03/02/2026 11:18:00] Paciente_31: 🎤 [Mensagem de voz: 0:26]
+[03/02/2026 11:19:00] Paciente_31: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[03/02/2026 12:00:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[03/02/2026 12:07:00] Paciente_31: Meu número é 123456.
+[03/02/2026 12:22:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[03/02/2026 12:45:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[03/02/2026 13:42:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[06/02/2026 13:42:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[05/01/2026 09:00:00] Paciente_32: Olá, preciso marcar uma consulta.
+[05/01/2026 09:09:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[05/01/2026 09:12:00] Paciente_32: 🎤 [Mensagem de voz: 0:16]
+[05/01/2026 09:13:00] Paciente_32: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[05/01/2026 10:08:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[05/01/2026 10:18:00] Paciente_32: Meu número é 123456.
+[05/01/2026 10:38:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[05/01/2026 10:46:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[05/01/2026 10:50:00] Paciente_32: Sim, tudo bem.
+[05/01/2026 11:00:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[05/01/2026 12:21:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[10/01/2026 12:21:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[04/02/2026 14:00:00] Paciente_33: Olá, preciso marcar uma consulta.
+[04/02/2026 14:15:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[04/02/2026 14:20:00] Paciente_33: Sou o Paciente_33, para sexta-feira, pela Unimed.
+[04/02/2026 14:47:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[04/02/2026 15:07:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[04/02/2026 16:14:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[08/02/2026 16:14:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[18/12/2025 13:00:00] Paciente_34: Olá, preciso marcar uma consulta.
+[18/12/2025 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[18/12/2025 19:09:00] Paciente_34: Sou o Paciente_34, para sexta-feira, pela Unimed.
+[18/12/2025 19:33:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[18/12/2025 19:53:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[18/12/2025 21:13:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[23/12/2025 21:13:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[16/01/2026 14:00:00] Paciente_35: Olá, preciso marcar uma consulta.
+[16/01/2026 14:11:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[16/01/2026 14:18:00] Paciente_35: 🎤 [Mensagem de voz: 0:26]
+[16/01/2026 14:19:00] Paciente_35: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[16/01/2026 15:14:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[16/01/2026 15:24:00] Paciente_35: Meu número é 123456.
+[16/01/2026 15:50:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[16/01/2026 16:11:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[16/01/2026 17:41:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[22/01/2026 17:41:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[01/02/2026 15:00:00] Paciente_36: Olá, preciso marcar uma consulta.
+[01/02/2026 17:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[01/02/2026 17:02:00] Paciente_36: Sou o Paciente_36, para sexta-feira, pela Unimed.
+[01/02/2026 17:18:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[01/02/2026 17:39:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[01/02/2026 18:20:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[07/02/2026 18:20:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[19/02/2026 08:00:00] Paciente_37: Olá, preciso marcar uma consulta.
+[19/02/2026 14:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[19/02/2026 14:09:00] Paciente_37: 🎤 [Mensagem de voz: 0:12]
+[19/02/2026 14:10:00] Paciente_37: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[19/02/2026 14:54:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[19/02/2026 15:01:00] Paciente_37: Meu número é 123456.
+[19/02/2026 15:17:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[19/02/2026 15:38:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[19/02/2026 16:52:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[22/02/2026 16:52:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[11/12/2025 17:00:00] Paciente_38: Olá, preciso marcar uma consulta.
+[11/12/2025 17:05:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[11/12/2025 17:15:00] Paciente_38: Sou o Paciente_38, para sexta-feira, pela Unimed.
+[11/12/2025 17:41:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[11/12/2025 17:59:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[11/12/2025 19:28:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[18/12/2025 19:28:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[18/01/2026 10:00:00] Paciente_39: Olá, preciso marcar uma consulta.
+[18/01/2026 10:15:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[18/01/2026 10:19:00] Paciente_39: Sou o Paciente_39, para sexta-feira, pela Unimed.
+[18/01/2026 10:48:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[18/01/2026 11:02:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[18/01/2026 12:09:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[24/01/2026 12:09:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[08/12/2025 17:00:00] Paciente_40: Olá, preciso marcar uma consulta.
+[08/12/2025 21:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[08/12/2025 21:08:00] Paciente_40: 🎤 [Mensagem de voz: 0:33]
+[08/12/2025 21:09:00] Paciente_40: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[08/12/2025 21:57:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[08/12/2025 22:02:00] Paciente_40: Meu número é 123456.
+[08/12/2025 22:26:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[08/12/2025 22:43:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[09/12/2025 00:11:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[13/12/2025 00:11:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[28/12/2025 18:00:00] Paciente_41: Olá, preciso marcar uma consulta.
+[28/12/2025 20:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[28/12/2025 20:03:00] Paciente_41: Sou o Paciente_41, para sexta-feira, pela Unimed.
+[28/12/2025 20:31:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[28/12/2025 20:49:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[28/12/2025 21:56:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[01/01/2026 21:56:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[05/02/2026 17:00:00] Paciente_42: Olá, preciso marcar uma consulta.
+[05/02/2026 23:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[05/02/2026 23:01:00] Paciente_42: 🎤 [Mensagem de voz: 0:26]
+[05/02/2026 23:02:00] Paciente_42: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[05/02/2026 23:47:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[05/02/2026 23:55:00] Paciente_42: Meu número é 123456.
+[06/02/2026 00:25:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[06/02/2026 00:38:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[06/02/2026 00:42:00] Paciente_42: Sim, tudo bem.
+[06/02/2026 00:47:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[06/02/2026 02:14:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[09/02/2026 02:14:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[18/02/2026 13:00:00] Paciente_43: Olá, preciso marcar uma consulta.
+[18/02/2026 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[18/02/2026 19:25:00] Paciente_43: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[06/01/2026 14:00:00] Paciente_44: Olá, preciso marcar uma consulta.
+[06/01/2026 17:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[06/01/2026 17:08:00] Paciente_44: Sou o Paciente_44, para sexta-feira, pela Unimed.
+[06/01/2026 17:18:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[06/01/2026 17:33:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[06/01/2026 18:56:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[09/01/2026 18:56:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[07/02/2026 10:00:00] Paciente_45: Olá, preciso marcar uma consulta.
+[07/02/2026 10:05:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[07/02/2026 10:13:00] Paciente_45: 🎤 [Mensagem de voz: 0:19]
+[07/02/2026 10:14:00] Paciente_45: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[07/02/2026 10:49:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[07/02/2026 10:59:00] Paciente_45: Meu número é 123456.
+[07/02/2026 11:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[07/02/2026 11:41:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[07/02/2026 13:07:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[13/02/2026 13:07:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[22/01/2026 14:00:00] Paciente_46: Olá, preciso marcar uma consulta.
+[22/01/2026 20:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[22/01/2026 20:04:00] Paciente_46: 🎤 [Mensagem de voz: 0:18]
+[22/01/2026 20:05:00] Paciente_46: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[22/01/2026 21:02:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[22/01/2026 21:12:00] Paciente_46: Meu número é 123456.
+[22/01/2026 21:38:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[22/01/2026 21:54:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[22/01/2026 22:29:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[29/01/2026 22:29:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[26/02/2026 16:00:00] Paciente_47: Olá, preciso marcar uma consulta.
+[26/02/2026 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[26/02/2026 19:19:00] Paciente_47: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[06/02/2026 08:00:00] Paciente_48: Olá, preciso marcar uma consulta.
+[06/02/2026 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[06/02/2026 16:30:00] Paciente_48: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[28/01/2026 14:00:00] Paciente_49: Olá, preciso marcar uma consulta.
+[28/01/2026 17:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[28/01/2026 17:02:00] Paciente_49: Sou o Paciente_49, para sexta-feira, pela Unimed.
+[28/01/2026 17:27:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[28/01/2026 17:48:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[28/01/2026 18:38:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[03/02/2026 18:38:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[11/12/2025 10:00:00] Paciente_50: Olá, preciso marcar uma consulta.
+[11/12/2025 15:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[11/12/2025 15:02:00] Paciente_50: 🎤 [Mensagem de voz: 0:25]
+[11/12/2025 15:03:00] Paciente_50: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[11/12/2025 15:42:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[11/12/2025 15:45:00] Paciente_50: Meu número é 123456.
+[11/12/2025 16:00:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[11/12/2025 16:24:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[11/12/2025 17:36:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[16/12/2025 17:36:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[06/12/2025 14:00:00] Paciente_51: Olá, preciso marcar uma consulta.
+[06/12/2025 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[06/12/2025 16:04:00] Paciente_51: 🎤 [Mensagem de voz: 0:22]
+[06/12/2025 16:05:00] Paciente_51: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[06/12/2025 16:48:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[06/12/2025 16:51:00] Paciente_51: Meu número é 123456.
+[06/12/2025 17:02:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[06/12/2025 17:07:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[06/12/2025 17:12:00] Paciente_51: Sim, tudo bem.
+[06/12/2025 17:21:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[06/12/2025 18:44:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[10/12/2025 18:44:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[06/01/2026 14:00:00] Paciente_52: Olá, preciso marcar uma consulta.
+[06/01/2026 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[06/01/2026 19:07:00] Paciente_52: Sou o Paciente_52, para sexta-feira, pela Unimed.
+[06/01/2026 19:23:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[06/01/2026 19:44:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[06/01/2026 20:26:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[10/01/2026 20:26:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[13/12/2025 08:00:00] Paciente_53: Olá, preciso marcar uma consulta.
+[13/12/2025 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[13/12/2025 16:28:00] Paciente_53: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[28/12/2025 11:00:00] Paciente_54: Olá, preciso marcar uma consulta.
+[28/12/2025 11:10:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[28/12/2025 11:17:00] Paciente_54: 🎤 [Mensagem de voz: 0:27]
+[28/12/2025 11:18:00] Paciente_54: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[28/12/2025 11:48:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[28/12/2025 11:53:00] Paciente_54: Meu número é 123456.
+[28/12/2025 12:09:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[28/12/2025 12:14:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[28/12/2025 12:20:00] Paciente_54: Sim, tudo bem.
+[28/12/2025 12:26:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[28/12/2025 13:20:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[31/12/2025 13:20:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[26/02/2026 12:00:00] Paciente_55: Olá, preciso marcar uma consulta.
+[26/02/2026 12:13:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[26/02/2026 12:19:00] Paciente_55: 🎤 [Mensagem de voz: 0:25]
+[26/02/2026 12:20:00] Paciente_55: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[26/02/2026 13:16:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[26/02/2026 13:25:00] Paciente_55: Meu número é 123456.
+[26/02/2026 13:55:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[26/02/2026 14:10:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[26/02/2026 15:02:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[01/03/2026 15:02:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[28/12/2025 11:00:00] Paciente_56: Olá, preciso marcar uma consulta.
+[28/12/2025 11:06:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[28/12/2025 11:11:00] Paciente_56: 🎤 [Mensagem de voz: 0:31]
+[28/12/2025 11:12:00] Paciente_56: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[28/12/2025 11:42:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[28/12/2025 11:46:00] Paciente_56: Meu número é 123456.
+[28/12/2025 12:12:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[28/12/2025 12:20:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[28/12/2025 12:30:00] Paciente_56: Sim, tudo bem.
+[28/12/2025 12:36:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[28/12/2025 13:08:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[02/01/2026 13:08:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[20/02/2026 14:00:00] Paciente_57: Olá, preciso marcar uma consulta.
+[20/02/2026 14:15:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[20/02/2026 14:16:00] Paciente_57: 🎤 [Mensagem de voz: 0:12]
+[20/02/2026 14:17:00] Paciente_57: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[20/02/2026 15:11:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[20/02/2026 15:17:00] Paciente_57: Meu número é 123456.
+[20/02/2026 15:29:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[20/02/2026 15:40:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[20/02/2026 15:43:00] Paciente_57: Sim, tudo bem.
+[20/02/2026 15:49:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[20/02/2026 16:52:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[26/02/2026 16:52:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[19/12/2025 16:00:00] Paciente_58: Olá, preciso marcar uma consulta.
+[19/12/2025 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[19/12/2025 19:08:00] Paciente_58: Sou o Paciente_58, para sexta-feira, pela Unimed.
+[19/12/2025 19:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[19/12/2025 19:38:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[19/12/2025 20:17:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[25/12/2025 20:17:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[13/12/2025 09:00:00] Paciente_59: Olá, preciso marcar uma consulta.
+[13/12/2025 09:08:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[13/12/2025 09:09:00] Paciente_59: 🎤 [Mensagem de voz: 0:32]
+[13/12/2025 09:10:00] Paciente_59: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[13/12/2025 10:08:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[13/12/2025 10:17:00] Paciente_59: Meu número é 123456.
+[13/12/2025 10:42:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[13/12/2025 10:53:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[13/12/2025 11:03:00] Paciente_59: Sim, tudo bem.
+[13/12/2025 11:09:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[13/12/2025 11:46:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[20/12/2025 11:46:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[24/02/2026 16:00:00] Paciente_60: Olá, preciso marcar uma consulta.
+[24/02/2026 22:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[24/02/2026 22:09:00] Paciente_60: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[07/01/2026 12:00:00] Paciente_61: Olá, preciso marcar uma consulta.
+[07/01/2026 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[07/01/2026 16:08:00] Paciente_61: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[21/01/2026 10:00:00] Paciente_62: Olá, preciso marcar uma consulta.
+[21/01/2026 10:08:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[21/01/2026 10:12:00] Paciente_62: Sou o Paciente_62, para sexta-feira, pela Unimed.
+[21/01/2026 10:38:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[21/01/2026 11:00:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[21/01/2026 11:37:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[25/01/2026 11:37:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[25/01/2026 16:00:00] Paciente_63: Olá, preciso marcar uma consulta.
+[25/01/2026 16:07:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[25/01/2026 16:08:00] Paciente_63: 🎤 [Mensagem de voz: 0:10]
+[25/01/2026 16:09:00] Paciente_63: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[25/01/2026 17:00:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[25/01/2026 17:09:00] Paciente_63: Meu número é 123456.
+[25/01/2026 17:29:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[25/01/2026 17:39:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[25/01/2026 18:27:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[30/01/2026 18:27:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[01/12/2025 17:00:00] Paciente_64: Olá, preciso marcar uma consulta.
+[01/12/2025 21:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[01/12/2025 21:07:00] Paciente_64: Sou o Paciente_64, para sexta-feira, pela Unimed.
+[01/12/2025 21:30:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[01/12/2025 21:37:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[01/12/2025 21:39:00] Paciente_64: Sim, tudo bem.
+[01/12/2025 21:46:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[01/12/2025 23:16:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[05/12/2025 23:16:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[24/12/2025 14:00:00] Paciente_65: Olá, preciso marcar uma consulta.
+[24/12/2025 14:06:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[24/12/2025 14:07:00] Paciente_65: Sou o Paciente_65, para sexta-feira, pela Unimed.
+[24/12/2025 14:20:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[24/12/2025 14:28:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[24/12/2025 14:38:00] Paciente_65: Sim, tudo bem.
+[24/12/2025 14:45:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[24/12/2025 16:14:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[30/12/2025 16:14:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[12/12/2025 17:00:00] Paciente_66: Olá, preciso marcar uma consulta.
+[12/12/2025 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[12/12/2025 19:04:00] Paciente_66: Sou o Paciente_66, para sexta-feira, pela Unimed.
+[12/12/2025 19:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[12/12/2025 19:47:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[12/12/2025 20:17:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[15/12/2025 20:17:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[12/12/2025 17:00:00] Paciente_67: Olá, preciso marcar uma consulta.
+[12/12/2025 23:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[12/12/2025 23:06:00] Paciente_67: 🎤 [Mensagem de voz: 0:21]
+[12/12/2025 23:07:00] Paciente_67: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[12/12/2025 23:37:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[12/12/2025 23:47:00] Paciente_67: Meu número é 123456.
+[12/12/2025 23:57:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[13/12/2025 00:16:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[13/12/2025 01:16:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[20/12/2025 01:16:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[17/01/2026 08:00:00] Paciente_68: Olá, preciso marcar uma consulta.
+[17/01/2026 11:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[17/01/2026 11:08:00] Paciente_68: 🎤 [Mensagem de voz: 0:22]
+[17/01/2026 11:09:00] Paciente_68: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[17/01/2026 12:09:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[17/01/2026 12:14:00] Paciente_68: Meu número é 123456.
+[17/01/2026 12:26:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[17/01/2026 12:47:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[17/01/2026 14:03:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[24/01/2026 14:03:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[26/01/2026 10:00:00] Paciente_69: Olá, preciso marcar uma consulta.
+[26/01/2026 13:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[26/01/2026 13:13:00] Paciente_69: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[23/12/2025 17:00:00] Paciente_70: Olá, preciso marcar uma consulta.
+[23/12/2025 20:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[23/12/2025 20:02:00] Paciente_70: Sou o Paciente_70, para sexta-feira, pela Unimed.
+[23/12/2025 20:20:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[23/12/2025 20:25:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[23/12/2025 20:30:00] Paciente_70: Sim, tudo bem.
+[23/12/2025 20:38:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[23/12/2025 21:26:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[27/12/2025 21:26:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[31/01/2026 08:00:00] Paciente_71: Olá, preciso marcar uma consulta.
+[31/01/2026 10:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[31/01/2026 10:01:00] Paciente_71: Sou o Paciente_71, para sexta-feira, pela Unimed.
+[31/01/2026 10:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[31/01/2026 10:40:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[31/01/2026 11:39:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[07/02/2026 11:39:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[23/01/2026 08:00:00] Paciente_72: Olá, preciso marcar uma consulta.
+[23/01/2026 11:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[23/01/2026 11:05:00] Paciente_72: Sou o Paciente_72, para sexta-feira, pela Unimed.
+[23/01/2026 11:25:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[23/01/2026 11:50:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[23/01/2026 12:45:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[30/01/2026 12:45:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[10/02/2026 10:00:00] Paciente_73: Olá, preciso marcar uma consulta.
+[10/02/2026 10:05:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[10/02/2026 10:06:00] Paciente_73: Sou o Paciente_73, para sexta-feira, pela Unimed.
+[10/02/2026 10:16:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[10/02/2026 10:27:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[10/02/2026 10:34:00] Paciente_73: Sim, tudo bem.
+[10/02/2026 10:41:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[10/02/2026 11:58:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[16/02/2026 11:58:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[04/12/2025 08:00:00] Paciente_74: Olá, preciso marcar uma consulta.
+[04/12/2025 10:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[04/12/2025 10:02:00] Paciente_74: 🎤 [Mensagem de voz: 0:38]
+[04/12/2025 10:03:00] Paciente_74: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[04/12/2025 10:44:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[04/12/2025 10:46:00] Paciente_74: Meu número é 123456.
+[04/12/2025 11:09:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[04/12/2025 11:28:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[04/12/2025 12:39:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[07/12/2025 12:39:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[17/01/2026 11:00:00] Paciente_75: Olá, preciso marcar uma consulta.
+[17/01/2026 14:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[17/01/2026 14:05:00] Paciente_75: Sou o Paciente_75, para sexta-feira, pela Unimed.
+[17/01/2026 14:35:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[17/01/2026 14:48:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[17/01/2026 16:03:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[20/01/2026 16:03:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[17/01/2026 12:00:00] Paciente_76: Olá, preciso marcar uma consulta.
+[17/01/2026 18:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[17/01/2026 18:03:00] Paciente_76: 🎤 [Mensagem de voz: 0:28]
+[17/01/2026 18:04:00] Paciente_76: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[17/01/2026 18:53:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[17/01/2026 19:00:00] Paciente_76: Meu número é 123456.
+[17/01/2026 19:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[17/01/2026 19:38:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[17/01/2026 20:16:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[20/01/2026 20:16:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[07/02/2026 08:00:00] Paciente_77: Olá, preciso marcar uma consulta.
+[07/02/2026 11:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[07/02/2026 11:01:00] Paciente_77: 🎤 [Mensagem de voz: 0:20]
+[07/02/2026 11:02:00] Paciente_77: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[07/02/2026 11:51:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[07/02/2026 12:01:00] Paciente_77: Meu número é 123456.
+[07/02/2026 12:25:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[07/02/2026 12:44:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[07/02/2026 13:39:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[14/02/2026 13:39:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[16/02/2026 09:00:00] Paciente_78: Olá, preciso marcar uma consulta.
+[16/02/2026 13:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[16/02/2026 13:03:00] Paciente_78: 🎤 [Mensagem de voz: 0:31]
+[16/02/2026 13:04:00] Paciente_78: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[16/02/2026 13:47:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[16/02/2026 13:57:00] Paciente_78: Meu número é 123456.
+[16/02/2026 14:20:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[16/02/2026 14:40:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[16/02/2026 15:58:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[22/02/2026 15:58:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[03/12/2025 15:00:00] Paciente_79: Olá, preciso marcar uma consulta.
+[03/12/2025 15:13:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[03/12/2025 15:14:00] Paciente_79: Sou o Paciente_79, para sexta-feira, pela Unimed.
+[03/12/2025 15:25:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[03/12/2025 15:37:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[03/12/2025 15:47:00] Paciente_79: Sim, tudo bem.
+[03/12/2025 15:52:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[03/12/2025 17:07:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[10/12/2025 17:07:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[05/02/2026 16:00:00] Paciente_80: Olá, preciso marcar uma consulta.
+[05/02/2026 20:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[05/02/2026 20:05:00] Paciente_80: 🎤 [Mensagem de voz: 0:21]
+[05/02/2026 20:06:00] Paciente_80: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[05/02/2026 20:36:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[05/02/2026 20:40:00] Paciente_80: Meu número é 123456.
+[05/02/2026 20:58:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[05/02/2026 21:05:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[05/02/2026 21:08:00] Paciente_80: Sim, tudo bem.
+[05/02/2026 21:18:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[05/02/2026 22:38:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[11/02/2026 22:38:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[21/02/2026 13:00:00] Paciente_81: Olá, preciso marcar uma consulta.
+[21/02/2026 18:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[21/02/2026 18:08:00] Paciente_81: 🎤 [Mensagem de voz: 0:23]
+[21/02/2026 18:09:00] Paciente_81: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[21/02/2026 19:06:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[21/02/2026 19:08:00] Paciente_81: Meu número é 123456.
+[21/02/2026 19:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[21/02/2026 19:45:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[21/02/2026 20:28:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[27/02/2026 20:28:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[14/01/2026 09:00:00] Paciente_82: Olá, preciso marcar uma consulta.
+[14/01/2026 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[14/01/2026 16:15:00] Paciente_82: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[12/12/2025 09:00:00] Paciente_83: Olá, preciso marcar uma consulta.
+[12/12/2025 12:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[12/12/2025 12:08:00] Paciente_83: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[01/12/2025 17:00:00] Paciente_84: Olá, preciso marcar uma consulta.
+[01/12/2025 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[01/12/2025 19:02:00] Paciente_84: Sou o Paciente_84, para sexta-feira, pela Unimed.
+[01/12/2025 19:13:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[01/12/2025 19:34:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[01/12/2025 20:47:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[05/12/2025 20:47:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[04/01/2026 09:00:00] Paciente_85: Olá, preciso marcar uma consulta.
+[04/01/2026 15:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[04/01/2026 15:06:00] Paciente_85: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[20/02/2026 14:00:00] Paciente_86: Olá, preciso marcar uma consulta.
+[20/02/2026 18:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[20/02/2026 18:08:00] Paciente_86: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[13/02/2026 18:00:00] Paciente_87: Olá, preciso marcar uma consulta.
+[13/02/2026 20:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[13/02/2026 20:10:00] Paciente_87: 🎤 [Mensagem de voz: 0:31]
+[13/02/2026 20:11:00] Paciente_87: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[13/02/2026 20:49:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[13/02/2026 20:56:00] Paciente_87: Meu número é 123456.
+[13/02/2026 21:14:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[13/02/2026 21:27:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[13/02/2026 21:29:00] Paciente_87: Sim, tudo bem.
+[13/02/2026 21:34:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[13/02/2026 22:26:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[18/02/2026 22:26:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[07/01/2026 11:00:00] Paciente_88: Olá, preciso marcar uma consulta.
+[07/01/2026 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[07/01/2026 16:08:00] Paciente_88: 🎤 [Mensagem de voz: 0:21]
+[07/01/2026 16:09:00] Paciente_88: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[07/01/2026 16:52:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[07/01/2026 16:58:00] Paciente_88: Meu número é 123456.
+[07/01/2026 17:22:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[07/01/2026 17:46:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[07/01/2026 18:38:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[11/01/2026 18:38:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[06/01/2026 11:00:00] Paciente_89: Olá, preciso marcar uma consulta.
+[06/01/2026 14:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[06/01/2026 14:10:00] Paciente_89: Sou o Paciente_89, para sexta-feira, pela Unimed.
+[06/01/2026 14:31:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[06/01/2026 14:44:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[06/01/2026 14:46:00] Paciente_89: Sim, tudo bem.
+[06/01/2026 14:53:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[06/01/2026 15:28:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[11/01/2026 15:28:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[06/01/2026 10:00:00] Paciente_90: Olá, preciso marcar uma consulta.
+[06/01/2026 14:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[06/01/2026 14:03:00] Paciente_90: Sou o Paciente_90, para sexta-feira, pela Unimed.
+[06/01/2026 14:27:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[06/01/2026 14:41:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[06/01/2026 14:44:00] Paciente_90: Sim, tudo bem.
+[06/01/2026 14:52:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[06/01/2026 15:58:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[10/01/2026 15:58:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[23/01/2026 09:00:00] Paciente_91: Olá, preciso marcar uma consulta.
+[23/01/2026 16:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[23/01/2026 16:23:00] Paciente_91: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[04/01/2026 16:00:00] Paciente_92: Olá, preciso marcar uma consulta.
+[04/01/2026 21:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[04/01/2026 21:02:00] Paciente_92: 🎤 [Mensagem de voz: 0:17]
+[04/01/2026 21:03:00] Paciente_92: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[04/01/2026 22:00:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[04/01/2026 22:04:00] Paciente_92: Meu número é 123456.
+[04/01/2026 22:32:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[04/01/2026 22:40:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[04/01/2026 22:43:00] Paciente_92: Sim, tudo bem.
+[04/01/2026 22:53:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[05/01/2026 00:09:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[11/01/2026 00:09:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[01/03/2026 08:00:00] Paciente_93: Olá, preciso marcar uma consulta.
+[01/03/2026 15:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[01/03/2026 15:25:00] Paciente_93: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[22/02/2026 13:00:00] Paciente_94: Olá, preciso marcar uma consulta.
+[22/02/2026 13:14:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[22/02/2026 13:15:00] Paciente_94: 🎤 [Mensagem de voz: 0:22]
+[22/02/2026 13:16:00] Paciente_94: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[22/02/2026 13:49:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[22/02/2026 13:51:00] Paciente_94: Meu número é 123456.
+[22/02/2026 14:01:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[22/02/2026 14:22:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[22/02/2026 14:54:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[01/03/2026 14:54:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[28/12/2025 11:00:00] Paciente_95: Olá, preciso marcar uma consulta.
+[28/12/2025 11:10:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[28/12/2025 11:13:00] Paciente_95: 🎤 [Mensagem de voz: 0:25]
+[28/12/2025 11:14:00] Paciente_95: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[28/12/2025 11:57:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[28/12/2025 12:03:00] Paciente_95: Meu número é 123456.
+[28/12/2025 12:32:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[28/12/2025 12:46:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[28/12/2025 13:51:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[04/01/2026 13:51:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[02/12/2025 13:00:00] Paciente_96: Olá, preciso marcar uma consulta.
+[02/12/2025 13:06:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[02/12/2025 13:07:00] Paciente_96: 🎤 [Mensagem de voz: 0:30]
+[02/12/2025 13:08:00] Paciente_96: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[02/12/2025 14:06:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[02/12/2025 14:10:00] Paciente_96: Meu número é 123456.
+[02/12/2025 14:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[02/12/2025 14:31:00] Clínica Saúde: Não temos vaga para esse dia. Pode ser na próxima semana?
+[02/12/2025 14:38:00] Paciente_96: Sim, tudo bem.
+[02/12/2025 14:46:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[02/12/2025 15:50:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[05/12/2025 15:50:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[26/02/2026 11:00:00] Paciente_97: Olá, preciso marcar uma consulta.
+[26/02/2026 19:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[26/02/2026 19:16:00] Paciente_97: Demorou muito para responder, já agendei em outra clínica. Pode cancelar.
+
+[23/01/2026 13:00:00] Paciente_98: Olá, preciso marcar uma consulta.
+[23/01/2026 17:00:00] Clínica Saúde: Desculpe a demora. Poderia me passar seu nome, data desejada e foto da carteirinha do convênio?
+[23/01/2026 17:03:00] Paciente_98: Sou o Paciente_98, para sexta-feira, pela Unimed.
+[23/01/2026 17:24:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[23/01/2026 17:46:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[23/01/2026 18:26:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[29/01/2026 18:26:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
+
+[19/12/2025 13:00:00] Paciente_99: Olá, preciso marcar uma consulta.
+[19/12/2025 13:12:00] Clínica Saúde: Olá! Me passa seu nome, data desejada e qual o seu plano de saúde?
+[19/12/2025 13:15:00] Paciente_99: 🎤 [Mensagem de voz: 0:17]
+[19/12/2025 13:16:00] Paciente_99: 📷 [Imagem anexada: carteirinha_embacada.jpg]
+[19/12/2025 14:03:00] Clínica Saúde: Não consigo ler a imagem nem escutar o áudio direito agora. Pode digitar o número?
+[19/12/2025 14:09:00] Paciente_99: Meu número é 123456.
+[19/12/2025 14:35:00] Clínica Saúde: Verificando nossa agenda no sistema...
+[19/12/2025 14:55:00] Clínica Saúde: Horário bloqueado. Aguarde enquanto peço a autorização no portal do plano.
+[19/12/2025 16:23:00] Clínica Saúde: Tudo certo! Consulta confirmada.
+[25/12/2025 16:23:00] Clínica Saúde: 🔔 Lembrete: Você tem uma consulta em 24h.
